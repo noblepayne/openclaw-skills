@@ -1,0 +1,3 @@
+{:deps {org.clojure/data.json {:mvn/version "2.5.0"}
+        babashka/curl {:git/url "https://github.com/babashka/babashka.curl"
+                       :git/sha "b7e2c5c7f0e0c5d5c5e5c5d5c5e5c5d5c5e5c5d5c"}}}
